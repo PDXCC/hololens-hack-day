@@ -1,0 +1,3 @@
+[submodule "mesh-streamer"]
+	path = mesh-streamer
+	url = git@github.com:glowbox/mesh-streamer.git
