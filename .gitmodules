@@ -1,3 +1,6 @@
 [submodule "mesh-streamer"]
 	path = mesh-streamer
 	url = git@github.com:glowbox/mesh-streamer.git
+[submodule "mesh-streamer-processing"]
+	path = mesh-streamer-processing
+	url = git@github.com:reidblomquist/mesh-streamer-processing.git
