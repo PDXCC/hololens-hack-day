@@ -4,3 +4,9 @@
 [submodule "mesh-streamer-processing"]
 	path = mesh-streamer-processing
 	url = git@github.com:reidblomquist/mesh-streamer-processing.git
+[submodule "mesh-streamer-unity"]
+	path = mesh-streamer-unity
+	url = git@github.com:reidblomquist/mesh-streamer-unity.git
+[submodule "hololens-meshstream-client"]
+	path = hololens-meshstream-client
+	url = git@github.com:thomaswester/hololens-meshstream-client.git
